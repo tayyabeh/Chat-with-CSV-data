@@ -1,0 +1,6 @@
+streamlit
+pandas
+langchain-google-genai
+python-decouple
+langchain
+langchain-community
